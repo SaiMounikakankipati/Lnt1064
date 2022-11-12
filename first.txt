@@ -6,4 +6,4 @@
 day is 12
 tomorrow is a sunday
 Laptop name is Dell
-
+Mobile is apple
