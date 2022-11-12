@@ -1,4 +1,5 @@
  Today is Saturday
  Year is 2022
  Month is November
-day is 12
+ day is 12
+ It is winter
