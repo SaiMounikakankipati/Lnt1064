@@ -3,3 +3,6 @@
  Month is November
  day is 12
  It is winter
+day is 12
+tomorrow is a sunday
+
